@@ -1,3 +1,3 @@
 # aicourse
 AI Course
-AAAAA
+Change in VS Code
